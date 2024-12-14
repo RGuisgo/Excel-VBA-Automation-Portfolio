@@ -7,7 +7,7 @@ For the IC-DA macro, it automates the formatting of export from SAP into a well 
 
 For the Truck robot, it automates the posting of both invoices with or without purchasing order numbers that are due directly for payment as soon as a purchase is done.
 
-For the buy sell contract macro, it automates the extracting of both sales and purchase contract numbers from a large contract admin file and it helps to help duplicate contarct numbers from the file.
+For the buy sell contract macro, it automates the extracting of both sales and purchase contract numbers from a large contract admin file and it helps to help duplicate contract numbers from the file.
 
 All these files script have SAP GUI scripting in them since invoices posting and netting clearing are both done in SAP system. The importance of these macros are to save time, and make invoice processing and clearing easy and efficient.
 
