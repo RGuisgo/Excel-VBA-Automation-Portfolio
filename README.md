@@ -9,6 +9,8 @@ For the Truck robot, it automates the posting of both invoices with or without p
 
 For the buy sell contract macro, it automates the extracting of both sales and purchase contract numbers from a large contract admin file and it helps to help duplicate contract numbers from the file.
 
+For the price change macro, it formats raw data from SAP, go through two extra excel workbooks to look for matching trade numbers and insert vendor names based on the trade numbers found.
+
 All these files script have SAP GUI scripting in them since invoices posting and netting clearing are both done in SAP system. The importance of these macros are to save time, and make invoice processing and clearing easy and efficient.
 
 ## How to Use
